@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Repositories\\ticketing-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E507515-42E5-4496-A014-D34A8230D75A}|SE-Backend\\SE-Backend.csproj|c:\\projects\\repositories\\ticketing-backend\\se-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E507515-42E5-4496-A014-D34A8230D75A}|SE-Backend\\SE-Backend.csproj|solutionrelative:se-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E507515-42E5-4496-A014-D34A8230D75A}|SE-Backend\\SE-Backend.csproj|c:\\projects\\repositories\\ticketing-backend\\se-backend\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E507515-42E5-4496-A014-D34A8230D75A}|SE-Backend\\SE-Backend.csproj|solutionrelative:se-backend\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E507515-42E5-4496-A014-D34A8230D75A}|SE-Backend\\SE-Backend.csproj|c:\\projects\\repositories\\ticketing-backend\\se-backend\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E507515-42E5-4496-A014-D34A8230D75A}|SE-Backend\\SE-Backend.csproj|solutionrelative:se-backend\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E507515-42E5-4496-A014-D34A8230D75A}|SE-Backend\\SE-Backend.csproj|c:\\projects\\repositories\\ticketing-backend\\se-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E507515-42E5-4496-A014-D34A8230D75A}|SE-Backend\\SE-Backend.csproj|solutionrelative:se-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E507515-42E5-4496-A014-D34A8230D75A}|SE-Backend\\SE-Backend.csproj|c:\\projects\\repositories\\ticketing-backend\\se-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E507515-42E5-4496-A014-D34A8230D75A}|SE-Backend\\SE-Backend.csproj|solutionrelative:se-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E507515-42E5-4496-A014-D34A8230D75A}|SE-Backend\\SE-Backend.csproj|c:\\projects\\repositories\\ticketing-backend\\se-backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E507515-42E5-4496-A014-D34A8230D75A}|SE-Backend\\SE-Backend.csproj|solutionrelative:se-backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Projects\\Repositories\\ticketing-backend\\SE-Backend\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "SE-Backend\\Models\\Movie.cs",
+              "ToolTip": "C:\\Projects\\Repositories\\ticketing-backend\\SE-Backend\\Models\\Movie.cs",
+              "RelativeToolTip": "SE-Backend\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:40:34.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\Repositories\\ticketing-backend\\SE-Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SE-Backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\Repositories\\ticketing-backend\\SE-Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SE-Backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T09:22:38.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Repositories\\ticketing-backend\\SE-Backend\\Program.cs",
+              "RelativeDocumentMoniker": "SE-Backend\\Program.cs",
+              "ToolTip": "C:\\Projects\\Repositories\\ticketing-backend\\SE-Backend\\Program.cs",
+              "RelativeToolTip": "SE-Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:18:56.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Repositories\\ticketing-backend\\SE-Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "SE-Backend\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Repositories\\ticketing-backend\\SE-Backend\\appsettings.json*",
+              "RelativeToolTip": "SE-Backend\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T09:15:20.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Repositories\\ticketing-backend\\SE-Backend\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "SE-Backend\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Projects\\Repositories\\ticketing-backend\\SE-Backend\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "SE-Backend\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:13:45.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Projects\\Repositories\\ticketing-backend\\SE-Backend\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "SE-Backend\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Projects\\Repositories\\ticketing-backend\\SE-Backend\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "SE-Backend\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA/wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:13:41.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
